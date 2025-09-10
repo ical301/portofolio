@@ -6,10 +6,12 @@ Tujuannya untuk menampilkan kemampuan saya dalam membangun aplikasi web dengan L
 ---
 
 ## ✨ Fitur Proyek  
-- 👤 **Login & Registrasi User**  
-- 📦 **Manajemen Data Barang / Produk**  
-- 🚚 **Proses Delivery** (PO Delivery & Incoming PO)  
-- 📊 **Laporan & Dashboard**  
+1. 👤 **Manajemen Akun** (User & Admin)  
+2. 🏫 **Manajemen Kelas & Siswa**  
+3. 📚 **Materi & Tugas**  
+4. 📝 **Nilai & Raport**  
+5. 📊 **Laporan & Statistik**  
+6. 🔔 **Notifikasi**  
 
 ---
 
